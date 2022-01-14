@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rfnad1
-- 👀 I’m interested in front-end development and back-end development
+- 👀 I’m interested in Web Programing
 - 🌱 I’m currently learning programming language
 - 💞️ I’m looking to collaborate on Codepolitan
 - 📫 How to reach me contact me via my email irfanadi@outlook.com
